@@ -1,5 +1,3 @@
-# TEMPLATE GENERICO PER README
-
 # MHW1
 ## Questo mini-homework mira a replicare l'estetica di [questa pagina](https://www.op.gg/summoners/euw/Luffy0022-EUW). Non ho scelto la [pagina principale](https://www.op.gg/) perché già scelta da un altro collega.
 
